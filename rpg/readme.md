@@ -6,6 +6,6 @@
   Kill the main Dragon! and save the Town!!
 
 ## Rules - 
-  Very Simple! Don't Die! and Kill the monsters! 
-  There are 3 monsters; a slime, a fanged beast and a dragon!
+  Very Simple! Don't Die! and Kill the monsters! \n
+  There are 3 monsters; a slime, a fanged beast and a dragon! \n
   You start with 100 health and 50 gold, make the right choices and you'll win!
