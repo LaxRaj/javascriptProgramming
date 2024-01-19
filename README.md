@@ -7,3 +7,9 @@ Projects in JavaScript! (Beginner - Intermediate)
 * Role-Playing-Game
 * Calorie-Counter
 * Music-Player
+* Date-Formatter
+* Decimal-To-Binary-Converter **DSA**
+* Football-Cards
+* Palindrom-Checker **DSA**
+* To-Do-App **CRUD**
+* Number-Sorter **DSA**
