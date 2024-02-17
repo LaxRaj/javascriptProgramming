@@ -17,4 +17,6 @@ Projects in JavaScript! (Beginner - Intermediate)
 #### TODO
 - Add projects 
 - Complete free code camp
-(linkedin)(https://www.linkedin.com/in/lbhati)!
+
+
+(linkedin)(https://www.linkedin.com/in/lbhati)
