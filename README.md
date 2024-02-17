@@ -19,4 +19,4 @@ Projects in JavaScript! (Beginner - Intermediate)
 - Complete free code camp
 
 
-(linkedin)(https://www.linkedin.com/in/lbhati)
+[linkedin](https://www.linkedin.com/in/lbhati)
