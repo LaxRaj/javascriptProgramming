@@ -14,4 +14,6 @@ Projects in JavaScript! (Beginner - Intermediate)
 * To-Do-App **CRUD**
 * Number-Sorter **DSA**
 
-I have to add more 
+#### TODO
+- Add projects 
+- Complete free code camp
