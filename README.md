@@ -14,5 +14,4 @@ Projects in JavaScript! (Beginner - Intermediate)
 * To-Do-App **CRUD**
 * Number-Sorter **DSA**
 
-I have to add more projects here
-also start it back starting march
+I have to add more 
